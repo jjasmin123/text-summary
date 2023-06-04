@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/jjasmin123/Text-Summarizer-Project
+Author: jjasmin123
+Author-email: jjasmin123@gmail.com
+Project-URL: Bug Tracker, https://github.com/jjasmin123/Text-Summarizer-Project/issues
+License-File: LICENSE
+
 # End to end Text-Summarizer-Project
 
 ## Workflows
@@ -50,7 +60,7 @@ open up you local host and port
 
 ```bash
 Author: Javed Sayyed
-Data Scientist senior
+Data Scientist Senior
 Email: jjasmin123@gmail.com
 
 ```
